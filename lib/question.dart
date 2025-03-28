@@ -4,3 +4,5 @@ class Question {
 
   Question({required this.questionText, required this.questionAnswer});
 }
+
+//Question newQuestion = Question(questionText: 'text', questionAnswer: true);
